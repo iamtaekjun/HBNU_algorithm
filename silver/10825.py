@@ -1,3 +1,4 @@
+#10825 국영수 (정렬)
 N = int(input())
 studentInfo = []
 

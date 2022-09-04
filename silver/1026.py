@@ -1,4 +1,4 @@
-#1026 보물(그리디 알고리즘) 수정필요
+#1026 보물(그리디 알고리즘)
 N = int(input())
 A = list(map(int, input().split()))
 B = list(map(int, input().split()))
