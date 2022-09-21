@@ -120,24 +120,3 @@
 # setList.sort(reverse=True)
 
 # print(setList[k])
-
-result =""
-array = input()
-
-array = list(array)
-print(array)
-
-array = str(array)
-print(array)
-print(array[0])
-
-for i in range(asd):
-    if 대문자:
-        array[i] = chr(ord(array[i]) - 32)
-        result += str(array[i])
-    elif 소문자:
-        array[i] = chr(ord(array[i]) + 32)
-        result += str(array[i])
-    else:
-        result += str(array[i])
-    
